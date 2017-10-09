@@ -1,5 +1,6 @@
 #Rebound 
-[![Build Status](https://travis-ci.org/facebook/rebound.png?branch=master)](https://travis-ci.org/facebook/rebound) 
+[![Build Status](https://travis-ci.org/facebook/rebound.png?branch=master)](https://travis-ci.org/facebook/rebound) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Frebound.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Frebound?ref=badge_shield)
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Rebound-blue.svg?style=flat)](https://android-arsenal.com/details/1/30)
 
 ##About
@@ -49,3 +50,6 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Frebound.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Frebound?ref=badge_large)
